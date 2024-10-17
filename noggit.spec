@@ -6,7 +6,7 @@ Release:       4.1
 Summary:       JSON streaming parser
 Group:         Development/Java
 License:       ASL 2.0
-URL:           http://noggit.org/
+URL:           https://noggit.org/
 Source0:       https://github.com/yonik/noggit/archive/%{name}-%{version}.tar.gz
 
 BuildRequires: maven-local
